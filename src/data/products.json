@@ -1,0 +1,87 @@
+[
+  {
+    "name": "CREATOR PC ULTIMATE ",
+    "id": 1,
+    "img": "../assets/img/Load_cfg.webp",
+    "type": "Intel",
+    "price": 2195.0,
+    "specs": "Intel Core Processor i9-9900K GeForce RTX 2080 SUPER™ 8GB GDDR6 16GB Vengeance 3000MHz RAM ASUS Prime Z390-P WiFi ATX Motherboard 1TB WD Blue SN550 M.2 PCIe SSD Syber CUBE Series Gaming Chassis"
+  },
+  {
+    "name": "GAMER ESSENTIAL ESPORTS",
+    "id": 2,
+    "type": "Amd",
+    "price": 1035.0,
+    "specs": "AMD Ryzen 5 3600 Processor AMD RX 580 8GB Graphics 16GB Vengeance 3000MHz RAM GIGABYTE X570 UD Motherboard 240GB WD Green SSD + 1TB HDD Combo CyberPowerPC MAGNUS Full Tower Gaming Case"
+  },
+  {
+    "name": "Gamer Ultra Navi",
+    "id": 3,
+    "type": "Intel",
+    "price": 1605.0,
+    "specs": "Intel® Core™ Processor i7-9700KF, AMD Radeon™ RX 5700 XT 8GB Graphics 16GB Vengeance 3000MHz RAM ASUS Prime Z390-P WiFi ATX Motherboard 500GB WD Blue SN550 Series PCIe NVMe + 3TB HDD Combo CyberPowerPC H550 Mid-Tower Gaming Case"
+  },
+  {
+    "name": "GAMER ESSENTIAL ESPORTGAMING INSTANT SHIP GM 9907",
+    "id": 4,
+    "type": "Amd",
+    "price": 539.00,
+    "specs": "AMD Ryzen 5 1400 Processor AMD Radeon RX 560 2GB Video 8GB DDR4-2400 Memory AMD A320M Chipset Motherboard 256GB LEXAR NS100 SSDa"
+  },
+  {
+    "name": "SYBER M PRO 200",
+    "id": 5,
+    "type": "Intel",
+    "price": 1355.00,
+    "specs": "Windows 10 Home Intel® Core™ Processor i7-9700F GeForce® GTX 1660 Ti 6GB GDDR6 16GB Vengeance 3000MHz RAM ASUS Prime Z390-P WiFi ATX Motherboard 240GB WD Green SSD + 2TB HDD Combo"
+  },
+  {
+    "name": "GAMING INSTANT SHIP GM 99507",
+    "id": 6,
+    "type": "Amd",
+    "price": 899.00,
+    "specs": "AMD Ryzen 5 3600 Processor GeForce® GTX 1660 SUPER 6GB GDDR5 16GB 3000MHz RAM ASROCK B450M Motherboard 480GB WD Green SSD 2TB Seagate SATAIII HDD"
+  },
+  {
+    "name": "GAMER EINFINITY 8000",
+    "id": 7,
+    "type": "Intel",
+    "price": 1609.00,
+    "specs": "Intel® Core™ Processor i7-9700K GeForce® RTX 2060 SUPER™ 8GB GDDR6 16GB Vengeance 3000MHz RAM ASUS Prime Z390-P WiFi ATX Motherboard 240GB WD Green SSD + 1TB HDD Combo"
+  },
+  {
+    "name": "WORK FROM HOME SPECIAL II",
+    "id": 8,
+    "type": "Amd",
+    "price": 1295.0,
+    "specs": "AMD Ryzen 7 3700X Processor AMD Radeon™ RX 5700 XT 8GB Graphics 16GB Vengeance 3000MHz RAM ASUS PRIME X570-P RGB Motherboard 240GB WD Green SSD + 2TB HDD Combo CyberPowerPC ELUNA 242V Premium RGB Gaming Case + 3x ARG"
+  },
+  {
+    "name": "GAMER INFINITY 8800 PRO",
+    "id": 9,
+    "type": "Intel",
+    "price": 1825.00,
+    "specs": "Windows 10 Home Intel® Core™ Processor i7-9700K GeForce® RTX 2070 SUPER™ 8GB GDDR6 16GB Vengeance 3000MHz RAM ASUS Prime Z390-P WiFi ATX Motherboard 1TB WD Blue SN550 M.2 NVME SSD + 4TB HDD Combo Corsair Carbide 275R TG Black Gaming Case"
+  },
+  {
+    "name": "VR READY DEAL RX 5700 XT",
+    "id": 10,
+    "type": "Amd",
+    "price": 1329.00,
+    "specs": "AMD Ryzen 7 3700X Processor AMD Radeon™ RX 5700 XT 8GB Graphics 16GB Vengeance 3000MHz RAM 500GB WD Blue SN550 Series PCIe NVMe + 3TB HDD Combo ASUS PRIME X570-P RGB Motherboard"
+  },
+  {
+    "name": "VR READY DEAL RTX 2070 SUPER",
+    "id": 11,
+    "type": "Intel",
+    "price": 1595.00,
+    "specs": "Windows 10 Home Intel® Core™ Processor i7-9700K GeForce® RTX 2070 SUPER™ 8GB GDDR6 16GB Vengeance 3000MHz RAM 240GB WD Green SSD + 2TB HDD Combo ASUS Prime Z390-P WiFi ATX Motherboard"
+  },
+  {
+    "name": "GAMER ESSENTIAL ESPORTS",
+    "id": 12,
+    "type": "Amd",
+    "price": 1599.00,
+    "specs": "AMD Ryzen 7 3700X Processor GeForce® RTX 2070 SUPER™ 8GB GDDR6 16GB Vengeance 3000MHz RAM GIGABYTE X570 UD Motherboard 500GB WD Blue SN550 Series PCIe NVMe + 2TB HDD Combo [RAZER EDITION] LIAN LI PC-O11 Dynamic ATX Gaming Case"
+  }
+]

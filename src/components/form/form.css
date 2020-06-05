@@ -1,0 +1,55 @@
+
+.top_Container {
+    margin: 0;
+    background: url(../../assets/img/anas-alshanti-feXpdV001o4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+  }
+  .form-container{
+      display: block;
+      color: white;
+      font-size: 64px;
+  }
+  .form-inner{
+      margin: 0;
+    background: transparent;
+    padding:0 0px ;
+  }
+
+.input-text, 
+textarea {
+    font-size: xx-large;
+    width: 100%;
+  border-bottom: 1px solid#fff;
+  background: transparent;
+  color: #fff;
+}
+textarea {
+  height: 100px;
+}
+.label {
+
+    transition: 2s ease all;
+    color: #fff;
+    top: 10px;
+  }
+textarea {
+  padding: 15px 0;
+}
+button {
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    border: none;
+    font-size: 35px;
+    border-radius: 12px;
+  }
