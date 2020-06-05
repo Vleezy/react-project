@@ -18,7 +18,7 @@ const Home = () => {
         <Coursel />
       </div>
       <div className="only">
-        <div className="container">
+        <div className="display">
           <div className="cell">
             <Link to="/products">
               <img
